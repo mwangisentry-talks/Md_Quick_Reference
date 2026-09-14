@@ -1,11 +1,9 @@
 # Md_Quick_Reference
 
-
-
 ## Basic Syntax
 ---
 
-- This is a basic markdown reference guide for quick reference.
+- This is a basic Markdown reference guide for quick reference.
 
 ---
 ## Heading IDs
@@ -50,7 +48,7 @@ My next movie is 'I Am a Robot.'
 
 ## Blockquotes
 
-> Add > infront of a paragraph.
+> Add > in front of a paragraph.
 > This applies to multiple paragraphs. 
 
 ## Nested Blockquotes
